@@ -156,8 +156,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Anchor Framework](https://www.anchor-lang.com/)
 - [Project Serum](https://project-serum.github.io/)
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/device-tracker](https://github.com/yourusername/device-tracker) 
